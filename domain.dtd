@@ -1,0 +1,16 @@
+<!ELEMENT user (games, hardware, wishlist)>
+<!ATTLIST user steamID CDATA #REQUIRED>
+
+<!ELEMENT games (game+)>
+
+<!ELEMENT game (title, hours_played)>
+<!ATTLIST game gameID CDATA #REQUIRED>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT hours_played (#PCDATA)>
+
+<!ELEMENT hardware (cpu, gpu, ram)>
+<!ELEMENT cpu (#PCDATA)>
+<!ELEMENT gpu (#PCDATA)>
+<!ELEMENT ram (#PCDATA)>
+
+<!ELEMENT wishlist (game+)>
