@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE user SYSTEM "domain.dtd">
+<user steamID="76561197960287930">
+    <games>
+        <game gameID="730">
+            <title>Counter-Strike 2</title>
+            <hours_played>1250</hours_played>
+        </game>
+        <game gameID="578080">
+            <title>PUBG: BATTLEGROUNDS</title>
+            <hours_played>450</hours_played>
+        </game>
+    </games>
+    <hardware>
+        <cpu>Intel Core i9-9900K</cpu>
+        <gpu>NVIDIA GeForce RTX 3080</gpu>
+        <ram>32GB</ram>
+    </hardware>
+    <wishlist>
+        <game gameID="1245620">
+            <title>ELDEN RING</title>
+            <hours_played>0</hours_played>
+        </game>
+    </wishlist>
+</user>
