@@ -4,7 +4,7 @@ This repository demonstrates a simple data structure for a Steam user profile, d
 
 Framework for Data Domain: Steam Gaming Platform
 
-Decision:
+**Decision**:
 Which new game should Steam recommend to a user that they are highly likely to purchase and enjoy?
 
 Signals:
