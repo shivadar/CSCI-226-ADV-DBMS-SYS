@@ -2,7 +2,6 @@
 
 This repository demonstrates a simple data structure for a Steam user profile, defined with a DTD and validated against sample XML files.
 
-*AI-assist: Gemini was used to brainstorm signals and draft text.*
 
 ---
 
