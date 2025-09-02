@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE user SYSTEM "domain.dtd">
+<user steamID="76561197960287931">
+    <hardware>
+        <cpu>AMD Ryzen 7 5800X</cpu>
+        <gpu>AMD Radeon RX 6800 XT</gpu>
+        <ram>16GB</ram>
+    </hardware>
+    <games>
+        <game gameID="413150">
+            <title>Stardew Valley</title>
+            <hours_played>150</hours_played>
+        </game>
+    </games>
+    <wishlist>
+        <game gameID="1086940">
+            <title>Baldur's Gate 3</title>
+            <hours_played>0</hours_played>
+        </game>
+    </wishlist>
+</user>
