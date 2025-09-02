@@ -1,7 +1,7 @@
 # C226 / DTD Assignment 2
 
 This repository demonstrates a simple data structure for a Steam user profile, defined with a DTD and validated against sample XML files.
-*AI-assist: Gemini was used to brainstorm signals and draft text.*
+*AI-assist: AI was used to brainstorm signals and draft text.*
 
 
 ---
